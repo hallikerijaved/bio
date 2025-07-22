@@ -8,8 +8,7 @@ Author: Javed Hallikeri
 Email: javedhallikeri3993@gmail.com  
 Phone: +91 777 687 3993  
 Location: Sangli, Maharashtra, India  
-GitHub: (Add your GitHub if available)  
-Live Demo: (Add live URL if hosted)
+Live Demo: https://hallikerijaved.github.io/bio
 
 ----------------------------------
 📁 ABOUT THE PROJECT
