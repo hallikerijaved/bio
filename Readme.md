@@ -1,6 +1,3 @@
-README.txt
-
-==============================
 
 JAVED HALLIKERI - PORTFOLIO WEBSITE
 ==============================
